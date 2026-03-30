@@ -1,4 +1,4 @@
-# Cora's Social App Spark
+# Cora's Social App Sparkler
 
 ## Table of contents
 <ul>
