@@ -25,7 +25,15 @@ Locate the input field at the top of the sreen.Type in the kyeword related to yo
 
 
 
+## Reference
 
+Ogada, C. (2023, February 24). How do I add background color in Android? Stack Overflow. https://stackoverflow.com/questions/75556313/how-do-i-add-background-color-in-android
+
+Giesbert, G. (n.d.). How to set emoji by unicode in a textview? Stack Overflow. https://stackoverflow.com/questions/26893796/how-to-set-emoji-by-unicode-in-a-textview
+
+Developer, A. (2017, October 29). How to use “setTextColor(hexaValue)” on Kotlin for Android,. Stack Overflow. https://stackoverflow.com/questions/47001467/how-to-use-settextcolorhexavalue-on-kotlin-for-android
+
+Singh, V. (2012, November 7). Font size of TextView in Android application changes on changing font size from native settings. Stack Overflow. https://stackoverflow.com/questions/13264794/font-size-of-textview-in-android-application-changes-on-changing-font-size-from
 
 
 
