@@ -13,7 +13,7 @@ The social app spark was created to act as a personal social assistance for user
 
 ## How to use 
 .Enter time of the day 
-Locate the input field at the top of the sreen.Type in the kyeword related to your current time or activity.
+Locate the input field at the top of the sreen.Type in the keyword related to your current time or activity.
 
 .Supported keywords: morning,mid -morning,afternoon,afternoon snack time,dinner,night,or after dinner.
 .Tip: The app is smart! it doesn't matter if you use capital letters or accidentally add a space.
